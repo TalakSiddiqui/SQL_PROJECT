@@ -28,16 +28,17 @@ customers, orders, products, and order_details. I answered business questions us
 
 8) Find products that have been ordered but never delivered.
 
+
 🔧 Tools & Technologies Used
  SQL: MySQL 
  GitHub: For project versioning and portfolio
 
+
 ✅ Key Learnings
-Writing advanced SQL queries using JOIN, GROUP BY, ORDER BY, LIMIT
 
-Applying business logic in analysis (like customer behavior or product trends)
-
-Structuring a relational database
+- Writing advanced SQL queries using JOIN, GROUP BY, ORDER BY, LIMIT
+- Applying business logic in analysis (like customer behavior or product trends)
+- Structuring a relational database
 
 
 
