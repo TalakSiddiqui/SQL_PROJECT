@@ -1,4 +1,4 @@
-                                                               (# 🔟 SQL Practice Queries from Basic ➝ Advanced)
+
 -- List all customers and their total number of orders.
                                                            
 SELECT C.NAME, COUNT(O.ORDER_ID) AS TOTAL_NO_OF_ORDERS FROM CUSTOMERS C 
