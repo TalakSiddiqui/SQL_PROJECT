@@ -10,9 +10,9 @@ The goal is to demonstrate my ability to work with real-world datasets using SQL
 The database consists of the following four tables:
 
 Table Name	Description
-customers: Contains details about each customer
-Orders:	Records all customer orders
-products:	Details of items sold on the platform
+customers:     Contains details about each customer
+Orders:	 Records all customer orders
+products:	 Details of items sold on the platform
 order_details: Line-item level breakdown of each order
 
 🔗 Relationships:
