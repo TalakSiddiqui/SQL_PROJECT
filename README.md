@@ -26,6 +26,12 @@ This project analyzes sales, customers, orders, and payments using SQL from a fi
 
 # 📁 Folder Structure
 
+✅ Key Learnings
+
+Writing advanced SQL queries using JOIN, GROUP BY, ORDER BY, LIMIT
+Applying business logic in analysis (like customer behavior or product trends)
+Structuring a relational database
+
 
 
 
