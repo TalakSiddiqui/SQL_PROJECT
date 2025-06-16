@@ -24,20 +24,17 @@ order_details.order_id → orders.order_id
 order_details.product_id → products.product_id
 
 🧩 Sample Data Columns
-Customers
 
+Customers
 customer_id, name, email, location
 
 Orders
-
 order_id, customer_id, order_date, status
 
 Products
-
 product_id, product_name, category, price
 
 Order_Details
-
 order_id, product_id, quantity, unit_price
 
 📌 Business Questions Answered
