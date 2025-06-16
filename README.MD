@@ -30,8 +30,8 @@ customers, orders, products, and order_details. I answered business questions us
 
 
 🔧 Tools & Technologies Used
- SQL: MySQL 
- GitHub: For project versioning and portfolio
+    SQL: MySQL 
+    GitHub: For project versioning and portfolio
 
 
 ✅ Key Learnings
